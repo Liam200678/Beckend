@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: azure;
+    color: greenyellow;
+}
+
+a {
+    padding: 10px;
+    background-color: aqua;
+    color: white;
+}
